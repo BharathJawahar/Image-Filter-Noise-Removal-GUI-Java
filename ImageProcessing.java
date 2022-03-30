@@ -600,7 +600,7 @@ class Edit implements ItemListener, ActionListener{
 		c2.add("Select");
 		c2.add("Crop");
 		c2.add("Flip");
-		c2.add("Rotate");
+		//c2.add("Rotate");
 		c2.setFont(new Font("Lucida",Font.PLAIN,24));
 		
 		c2.addItemListener(this);
