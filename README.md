@@ -1,4 +1,4 @@
-# Image-Filtering
+# Image-Filter-Noise-Removal-GUI-Java
 A Java Application that can apply 7 filters and remove noise from the image. And can also crop and flip the imaget
 
 Filter List : 
